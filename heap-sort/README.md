@@ -1,5 +1,4 @@
 #### 4. `TaskH_Dary_Heap_Sort_CPP/README.md`
-```markdown
 # Task H: In-Place d-ary Heap Sort
 
 An in-place ascending Heap Sort implementation in C++ built on a 0-indexed $d$-ary max-heap ($d \in \{3, 4, 5\}$) without auxiliary memory or STL heap utilities.
