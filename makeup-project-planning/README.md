@@ -45,6 +45,8 @@ To manage the recommendation engine project effectively, a **Work Breakdown Stru
 
 ### WBS–OBS Control Account Diagram
 <img width="1073" height="1280" alt="image" src="https://github.com/user-attachments/assets/f1a44c14-af56-4d87-8db7-2e19da4676b2" />
+
+
 ---
 
 ## 3. RACI Responsibility Matrix
