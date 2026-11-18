@@ -18,3 +18,13 @@ A collection of low-level programming, computer architecture, and algorithm desi
 
 ### Myosotis — Personal Movie & TV Series Tracker ([Repository](https://github.com/borjomiversus/Myosotis))
 A full-featured media tracking web application built with **C#**, **Blazor Server**, **MudBlazor**, and the **TMDB REST API**. Supports custom watchlists, viewing history, and a quick-capture notes system for unorganized media mentions.
+
+---
+
+## System Analysis & Software Architecture (Case Study: MAKEUP)
+
+| Folder | Focus Area | Core Topics & Artifacts |
+| :--- | :--- | :--- |
+| [`makeup-requirements-analysis`](./makeup-requirements-analysis) | Requirements Engineering | Product Vision, Business/User/Functional/Non-Functional Requirements, UML Use Case Specification |
+| [`makeup-project-planning`](./makeup-project-planning) | Project Management | Agile SDLC, WBS & OBS Control Account Mapping, RACI Responsibility Matrix |
+| [`makeup-architecture-modeling`](./makeup-architecture-modeling) | System Architecture | UML Activity, Sequence, Component, and Deployment Diagrams (K8s ML Cluster & API Gateway) |
