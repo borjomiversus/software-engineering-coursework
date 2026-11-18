@@ -18,6 +18,13 @@ Increasing the branching factor $d$ reduces heap height to $O(\log_d n)$, while 
 * **`params.txt`:** First line contains $d$ and $m$; second line contains three 0-based indices $p_1, p_2, p_3$.
 * **Stdout:** Prints `a[p1] a[p2] a[p3]` after heap construction, after $m$ sorting steps, and after full sorting.
 
+## Example Output 
+```text
+9 7 3
+7 5 3
+1 2 5
+```
+
 ## Build & Run
 ```bash
 g++ -std=c++17 -O2 main.cpp -o dary_heapsort
