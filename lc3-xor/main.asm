@@ -1,0 +1,21 @@
+.ORIG x3000
+
+LD R0, A
+LD R1, B
+
+AND R2, R0, R1
+NOT R2, R2
+AND R3, R0, R2
+NOT R3, R3
+AND R4, R1, R2
+NOT R4, R4
+AND R5, R3, R4
+NOT R5, R5
+
+ST R5, RESULT
+
+HALT
+A      .FILL x000C   
+B      .FILL x0005   
+RESULT .BLKW #1       
+.END
