@@ -16,5 +16,5 @@ A collection of low-level programming, computer architecture, and algorithm desi
 
 ## Featured Pet Project
 
-### [Myosotis — Personal Movie & TV Series Tracker]([https://github.com/borjomiversus/myosotis](https://github.com/borjomiversus/Mayosotis))
+### [Myosotis — Personal Movie & TV Series Tracker]([https://github.com/borjomiversus/myosotis](https://github.com/borjomiversus/Moysotis))
 A full-featured media tracking web application built with **C#**, **Blazor Server**, **MudBlazor**, and the **TMDB REST API**. Supports custom watchlists, viewing history, and a quick-capture notes system for unorganized media mentions.
